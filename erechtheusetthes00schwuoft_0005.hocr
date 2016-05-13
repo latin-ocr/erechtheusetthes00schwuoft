@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./erechtheusetthes00schwuoft_0005.png"; bbox 0 0 2174 3374; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 353 1555 1550 1721">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 353 1555 1550 1721">
+     <span class='ocr_line' id='line_1_1' title="bbox 487 1555 1413 1611; baseline 0 -3"><span class='ocrx_word' id='word_1_1' title='bbox 487 1555 938 1611; x_wconf 81' lang='lat' dir='ltr'>ERECHTHEUS</span> <span class='ocrx_word' id='word_1_2' title='bbox 977 1556 1065 1607; x_wconf 87' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_3' title='bbox 1103 1555 1413 1608; x_wconf 82' lang='lat' dir='ltr'>THESEUS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 353 1674 1550 1721; baseline 0.001 -3"><span class='ocrx_word' id='word_1_4' title='bbox 353 1674 512 1719; x_wconf 86' lang='lat' dir='ltr'>APUD</span> <span class='ocrx_word' id='word_1_5' title='bbox 546 1674 867 1721; x_wconf 79' lang='lat' dir='ltr'>EURIPIDEM</span> <span class='ocrx_word' id='word_1_6' title='bbox 900 1675 974 1718; x_wconf 87' lang='grc' dir='ltr'>ΕΤ</span> <span class='ocrx_word' id='word_1_7' title='bbox 1005 1674 1550 1719; x_wconf 81' lang='lat' dir='ltr'>ATTHIDOGRAPHOS</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
